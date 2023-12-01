@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8080
   servlet:
     context-path: /@project.artifactId@
 apiKey: 998723f9-1b09-465d-a67a-2a3b7f3e26c0
